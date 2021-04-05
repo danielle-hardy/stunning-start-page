@@ -82,6 +82,12 @@ h2 {
   font-family: "PT Sans Narrow", sans-serif;
 }
 
+section {
+  padding: 1.5rem;
+  border-bottom: 2px solid #afafaf;
+  border-top: 2px solid #afafaf;
+}
+
 section ul {
   margin: 0;
   padding: 0;
